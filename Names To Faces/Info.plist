@@ -55,6 +55,8 @@
 	</array>
 	<key>NSCameraUsageDescription</key>
 	<string>The application needs access to your camera before you can add a person.</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>Identify yourself!</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
